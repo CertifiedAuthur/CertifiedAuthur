@@ -1,2 +1,2 @@
 ### Hi there 👋
-You're welcome to CertifiedAuthur's repository. I am a data analyst currently working on my SQL and R programming skills. I am also a student of coursera. You can ask for my help at any time as i will be glad to help. 
+Welcome to CertifiedAuthur's repository! I'm passionate about data science and proficient in Python, SQL, R Programming, Excel, Deep Learning Libraries, Computer Vision and Image Processing, Advanced Statistics, Regression Analysis, and more. Explore my projects, contribute, or reach out with any questions. Let's connect and collaborate! You can find more about me on my social media profiles or personal website. Happy exploring!
